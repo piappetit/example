@@ -1,0 +1,23 @@
+.imagehight{
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .textalign{
+   text-align: center;
+  }
+
+
+.profileicons{
+    background-color: azure;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    color: black;
+}
